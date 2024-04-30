@@ -129,6 +129,9 @@ body{
 
 /* ---||MOBILE DEVICE */
  @media screen and (min-width:768px){
+     body{
+       overflow: hidden;
+     }
     .container{
         display: flex;
         flex-direction: row;
