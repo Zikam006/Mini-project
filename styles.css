@@ -78,10 +78,7 @@ body{
 .section__h3{
     font-weight: 500;
 }
-.section__p{
-    color: #fff;
-}
-.thin{
+.thin,. section__p{
     color: #ffffffbc;
 }
 .thin::before{
@@ -90,6 +87,7 @@ body{
 .bold{
     font-weight: bold;
     font-size: 2em;
+    color: #fff;
 }
 .bold::after{
     content: '  ';
