@@ -1,2 +1,2 @@
 # Mini-project
-Task by Biggest Uncle
+Task from Biggest Uncle
