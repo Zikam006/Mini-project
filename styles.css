@@ -17,7 +17,6 @@ body{
     background-color: #e6f1fc;
     max-height: 100vh;
     max-width: 100%;
-    overflow: hidden;
 }
 .container{
     display: flex;
